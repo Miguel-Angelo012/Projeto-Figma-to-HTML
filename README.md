@@ -15,7 +15,7 @@
 * A fonte da logo e dos links "Início" e "Contatos" não é a mesma, nem mesmo a imagem da pipoca;
 * Os botões de pesquisa e menu estão com cores diferentes em seus botões;
 * O fundo do projeto HTML/CSS possui espaçamento entre as figuras, diferente do projeto Figma;
-* Os filmes agora possuem uma área roxa em volta, também, em baixo, possuem seus respectivos títulos. Diferente do projeto Figma;
+* Os filmes agora possuem uma área roxa em volta, e também, em baixo, possuem seus respectivos títulos. Diferente do projeto Figma;
 
 ## Contatos:
 
